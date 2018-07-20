@@ -1,4 +1,13 @@
 # Function definitions
+#' Imprime el autor del paquete
+#'@param
+#'@return
+#'@export
+#'@examples
+#'
+author <- function(name){
+  print("Este es el paquete de Melina Crettaz Minaglia")
+}
 
 #' Calculates the Shannon Diversity Index using ln base e
 #'
@@ -101,6 +110,7 @@ readEcoNetwork <- function(fileName){
   })
   return(g)
 }
+
 
 
 
