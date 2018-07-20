@@ -1,0 +1,10 @@
+Package: dia5
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0.9000
+Authors@R: person("Melina C.", "Crettaz-Minaglia", email="mcrettaz@campus.ungs.edu.ar", role="aut")
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Este paquete no sirve para nada. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
