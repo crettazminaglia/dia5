@@ -1,10 +1,18 @@
 Package: dia5
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Este es un paquete de curso ciencia reproducible y R
 Version: 0.1.0.9000
-Authors@R: person("Melina C.", "Crettaz-Minaglia", email="mcrettaz@campus.ungs.edu.ar", role="aut")
+Authors@R: person( "Melina", "Crettaz-Minaglia", email="mcrettaz@campus.ungs.edu.ar", role=("cre"))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: Este paquete no sirve para nada. 
-License: What license is it under?
+License: MIT
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 3.4.4) 
+Imports: 
+  lubridate (>= 1.7.4),
+  ggplot2 (>= 3.0.0),
+  igraph (>= 1.1.2)     
+URL: git remote add origin https://github.com/crettazminaglia/dia5.git
+BugReports: git remote add origin https://github.com/crettazminaglia/dia5.git/issues  
+RoxygenNote: 6.0.1
